@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/сontainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#E2E0BB37"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/about_url"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+
+        android:autoLink="web"
+        android:text="@string/about_weblink_21" />
+</LinearLayout>

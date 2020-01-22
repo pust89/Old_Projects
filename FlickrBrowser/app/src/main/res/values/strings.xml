@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Flickr Browser</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="authors_name">Author\'s name</string>
+    <string name="title">Title</string>
+    <string name="tags">Tags</string>
+    <string name="image">Image</string>
+    <string name="photo_tags_text">Tags: %s</string>
+
+    <string name="photo_title_text">Title: %s</string>
+    <string name="search">Search</string>
+    <string name="searchable_enter_photo_tags">Enter photo tags</string>
+    <string name="title_empty_card">No photos match your search.
+
+Use the search icon to search photos.</string>
+</resources>

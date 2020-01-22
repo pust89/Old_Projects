@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/search"
+    android:hint="@string/searchable_enter_photo_tags"
+    >
+<!--<actionkey-->
+<!--android:keycode="A1"-->
+<!--android:queryActionMsg="string"-->
+<!--android:suggestActionMsg="string"-->
+<!--android:suggestActionMsgColumn="string" />-->
+    </searchable>

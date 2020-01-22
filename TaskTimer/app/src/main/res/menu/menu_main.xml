@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.pustovit.tasktimer.MainActivity">
+    <item
+        android:id="@+id/menumain_addTask"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/add_task"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menumain_showDurations"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/show_durations"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menumain_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menumain_showAbout"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/about_tasktimer" />
+    <item
+        android:id="@+id/menumain_generate"
+        android:title="@string/generate_data"
+        android:visible="false"
+        app:showAsAction="never" />
+</menu>

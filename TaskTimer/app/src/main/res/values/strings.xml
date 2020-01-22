@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Task Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_task">Add Task</string>
+    <string name="show_durations">Durations Report</string>
+    <string name="about_tasktimer">About TaskTimer</string>
+    <string name="generate_data">Generate Data</string>
+    <string name="button_to_edit_task_details">Button to edit task details</string>
+    <string name="button_to_delete_a_task">Button to delete a task</string>
+    <string name="task_name_required">Task name: required</string>
+    <string name="task_description_required">Task description (optional)</string>
+    <string name="sortorder">Orders: sorts low to high</string>
+    <string name="button_save">Button save</string>
+    <string name="save">save</string>
+    <string name="title_activity_add_edit">AddEditActivity</string>
+    <string name="instructions_heading">Instructions</string>
+    <string name="instructions">Use the add button (+) in the toolbar above to create new tasks.\n\nTasks with lower sort orders will be placed higher up the list. Tasks with the same sort order will be sorted alphabetically.\n\nTapping a task will start the timer for that task (and will stop the timer for any previous task that was being timed). \n\nEach task has Edit and Delete buttons if you want to change the details or remove the task.</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="delete">Delete</string>
+    <string name="deldiag_message">Deleting wil also delete all timing data associated with task id %1$d: %2$s.</string>
+    <string name="cancelEditDialog_message">You have unsaved changes.  Do you want to abandon your changes, or continue editing?</string>
+    <string name="cancelEditDialog_positive_caption">Continue editing</string>
+    <string name="cancelEditDialog_negative_caption">Abandon changes</string>
+    <string name="about_copyright">Copyright \u00a9 2017 LearnProgramming.academy</string>
+
+    <string name="about_weblink">Visit our site </string>
+    <string name="about_url"><u>https://yandex.ru</u></string>
+    <string name="email_mail_ru">email@mail.ru</string>
+    <string name="about_weblink_21">Visit our site www.yandex.ru</string>
+    <string name="the_icon_was_provided_by_the_icons_com">The icon was provided by the <i><b>icons.com!</b></i></string>
+    <string name="dialog_version">V%1$s</string>>
+
+    <string name="menutitle_addTask">Add Task</string>
+    <string name="menumain_showDurations">Durations Report</string>
+    <string name="menumain_settings">Settings</string>
+    <string name="menumain_showAbout">About TaskTimer</string>
+    <string name="menumain_generate">Generate data</string>
+    <string name="no_task_message">No Task Selected.</string>
+    <string name="edit_button_description">Button to edit task details.</string>
+    <string name="delete_button_description">Button to delete task</string>
+    <string name="addedit_name_hint">Task name: required</string>
+    <string name="addedit_description_hint">Task description (optional)</string>
+    <string name="addedit_sort_hint">Orders: sorts low to high</string>
+    <string name="addedit_save_text">Save</string>
+
+    <string name="deldiag_positive_caption">Delete</string>
+
+    <string name="cancelEditDiag_message">You have unsaved changes.  Do you want to abandon your changes, or continue editing?</string>
+    <string name="cancelEditDiag_positive_caption">Continue editing</string>
+    <string name="cancelEditDiag_negative_caption">Abandon changes</string>
+
+    <string name="about_email">For support, email tasktimer@learnprogramming.academy</string>
+    <string name="about_credits">Icon derived from <b>analog clock</b> at openclipart.org by <b>Anonymous</b></string>
+    <string name="show_current_timing_name">Timing %1$s</string>
+    <string name="task_name">Task name</string>
+    <string name="date">Date</string>
+    <string name="duration">Duration</string>
+    <string name="description">Description</string>
+    <string name="title_activity_duration_report">DurationReport</string>
+    <string name="show_day">Show day</string>
+    <string name="show_week">Show week</string>
+</resources>
